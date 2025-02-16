@@ -1,0 +1,5 @@
+Was any of this material about Github new to you? If so, what?
+
+Majority of the materials of Github, I learned the last 2 semester.
+The only thing that is new to me is branches. We usually met up to work
+so I didn't actually need to use branching.
